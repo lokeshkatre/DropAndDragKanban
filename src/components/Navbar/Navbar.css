@@ -1,0 +1,30 @@
+.navigation{
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    height: 50px;
+    display: flex;
+    background-color: white;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.02);
+    position: relative;
+}
+
+.links{
+    position: absolute;
+    background-color: white;
+    height: 50px;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    width: 200px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.02);
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px 3px;
+}
+
+.options{
+    display: flex;
+    justify-content: space-between;
+}
+
+

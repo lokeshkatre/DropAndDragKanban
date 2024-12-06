@@ -1,0 +1,17 @@
+.heading{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+}
+
+.status-column{
+    width: 18%;
+    height: max(100vh,auto);
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
